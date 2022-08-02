@@ -1,5 +1,5 @@
 # Fantasy-Football-2022
-This repository is a collection of data visualization practice and low level personal research into certain topics discussing NFL related data. The visualizations are provide below. The code is in the code folder but is not cleaned.
+This repository is a collection of data visualization practice and low level personal research into certain topics discussing NFL related data. The visualizations are provided below. The code is in the code folder but is not cleaned.
 
 
 # Underdog Fantasy Best-Ball Stacks
