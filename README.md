@@ -1,6 +1,10 @@
 This repository is a collection of data visualization practice and low level personal research into certain topics discussing NFL related data. The visualizations are provided below. The code is in the code folder but is not cleaned.
 
 
+# PROE for NFL teams. See code for season long and grouped weeks of offensive and defensive PROE of the NFL.
+![off_proe_2022_10_through_13](https://user-images.githubusercontent.com/105609020/205836492-518b5080-4920-4fee-9f57-9f5455c5812f.png)
+
+
 # Underdog Fantasy Best-Ball Stacks
 ![stacks](https://user-images.githubusercontent.com/105609020/176357533-4cd186a5-783d-4060-ac95-a63d3c87fc89.png)
 
