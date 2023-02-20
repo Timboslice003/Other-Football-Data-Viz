@@ -16,9 +16,9 @@ Practically everyone abandoned the run vs the Buccaneers last season.
 Offensive EPA/play weighted 1.5 times as much. The Rams and Bengals are highlighted to show how they overcame some really good teams in the playoffs on their way to the Super Bowl.
 ![combined_epa](https://user-images.githubusercontent.com/105609020/182451100-3daeeb99-ac87-4682-971f-3fb8b656a902.png)
 
-# Best NFL Defenses as slowing down QB fantasy production
+# Best NFL Defenses at slowing down QB fantasy production
 ![QbsDef](https://user-images.githubusercontent.com/105609020/182451437-31cf620b-c7e1-46a2-b69d-e43465d41416.png)
 
-# Best NFL Defenses as slowing down WR1 fantasy production
+# Best NFL Defenses at slowing down WR1 fantasy production
 ![WR1_opp](https://user-images.githubusercontent.com/105609020/182451509-dfc27453-ed4a-4ca0-aa3c-578f03593a26.png)
 
